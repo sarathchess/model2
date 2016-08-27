@@ -1,5 +1,9 @@
 <?php
 error_reporting(0);
+
+
+
+
 include("db.php");
 session_start();
 if($_POST['s1']!="")
@@ -18,8 +22,7 @@ if($_POST['s1']!="")
 			</table>
 		</form>
 	</body>
-</html>
-<script src="jquery-3.1.0.min.js"></script>
+</html> <script src="jquery-3.1.0.min.js"></script>
 <script>
 	$(document).ready(function(){
 		$(".save").click(function(){
