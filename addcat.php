@@ -1,9 +1,5 @@
 <?php
 error_reporting(0);
-
-
-
-
 include("db.php");
 session_start();
 if($_POST['s1']!="")
