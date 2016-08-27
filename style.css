@@ -1,0 +1,132 @@
+h2{
+margin:10px;
+padding:10px;
+border-style:dashed pink;
+text-align:center;
+color:black;
+}	
+td{
+color:blue;
+margin:2px;
+padding:2px;
+}	
+table{
+background-color:silver;
+}
+.save{
+background-color:pink;
+width:125px;
+text-align:center;
+color:red;
+font-size:22px;
+font-style:italic;
+}
+#myform{
+  background-repeat:no-repeat;
+  margin:10px auto;
+  padding:190px;
+  }
+  #im{
+  background-image:url('nature1.jpg');
+  }
+ 
+#ii{
+font-family:Calibri;
+font-size:20px;
+background-color:silver;
+color:black;
+}
+#ij{
+font-family:arial;
+font-size:20px;
+float:left;
+color:red;
+text-transform:uppercase;
+}
+
+#ik{
+float:right;
+text-decoration:none;
+}
+a{
+font-family:arial;
+font-size:18px;
+color:#554433;
+text-decoration:none;
+}
+
+#il{
+float:right;
+text-decoration:none;
+font-family:timesnewroman;
+font-size:20px;
+color:#FF5588;
+}
+#po{
+border:1px solid pink;
+float:left;
+height:auto;
+width:100%;
+}
+#po1
+{
+border:1px solid pink;
+float:left;
+height:auto%;
+width:100%;
+height:100px;
+}
+#in{
+font-family:arial;
+font-size:26px;
+color:black;
+text-decoration:none;
+float:left;
+}
+#io{
+font-family:arial;
+font-size:14px;
+color:blue;
+text-decoration:none;
+}
+#iu{
+border:1px pink solid;
+height:100%;
+width:100%;
+}
+#ix{
+border:1px  solid;
+height:30%;
+width:100%;
+}
+
+#al{
+float:right;}
+#all{
+float:left;}
+
+#user{
+border:1px solid pink;
+height:100%;
+width:100%;
+}
+#uh{
+background-color:#abcdef;
+border:1px solid black;
+width:100%;
+height:30%;
+text-align:center;
+}
+#ul{
+float:left;
+height:69%;
+width:15%;
+border:1px solid black;
+background-color:#ffccaa;
+}
+#uc{
+border:1px solid black;
+height:69%;
+width:100%;
+}
+
